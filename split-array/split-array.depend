@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586192449 source:c:\program files\codeblocks\workspace\split-array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<setjmp.h>
+
